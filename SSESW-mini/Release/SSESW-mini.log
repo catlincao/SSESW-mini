@@ -1,0 +1,10 @@
+﻿  SSESW-miniDlg.cpp
+SSESW-miniDlg.cpp(216): warning C4129: “/”: 不可识别的字符转义序列
+SSESW-miniDlg.cpp(217): warning C4129: “/”: 不可识别的字符转义序列
+  正在生成代码
+  1 of 188 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SSESW-mini.vcxproj -> E:\document\visual_studio_2015\MFC\SSESW-mini\Release\SSESW-mini.exe
+  SSESW-mini.vcxproj -> E:\document\visual_studio_2015\MFC\SSESW-mini\Release\SSESW-mini.pdb (Full PDB)
